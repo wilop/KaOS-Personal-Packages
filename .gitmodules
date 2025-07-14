@@ -1,0 +1,6 @@
+[submodule "packages/android-tools"]
+	path = packages/android-tools
+	url = https://github.com/wilop/android-tools.git
+[submodule "packages/arduino-ide"]
+	path = packages/arduino-ide
+	url = https://github.com/wilop/arduino-ide.git
