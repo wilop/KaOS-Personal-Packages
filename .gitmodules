@@ -4,3 +4,6 @@
 [submodule "packages/arduino-ide"]
 	path = packages/arduino-ide
 	url = https://github.com/wilop/arduino-ide.git
+[submodule "packages/vendetta-online"]
+	path = packages/vendetta-online
+	url = https://github.com/wilop/vendetta-online.git
