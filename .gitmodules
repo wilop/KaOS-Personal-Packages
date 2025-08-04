@@ -7,3 +7,6 @@
 [submodule "packages/vendetta-online"]
 	path = packages/vendetta-online
 	url = https://github.com/wilop/vendetta-online.git
+[submodule "packages/fastfetch"]
+	path = packages/fastfetch
+	url = https://github.com/wilop/fastfetch.git
