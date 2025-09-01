@@ -9,6 +9,7 @@ This repository contains the following packages:
   - [arduino-ide](https://github.com/wilop/arduino-ide)  
   - [vendetta-online](https://github.com/wilop/vendetta-online)  
   - [fastfetch](https://github.com/wilop/fastfetch)  
+  - [rt3290-dkms](https://github.com/wilop/rt3290-dkms.git)  
 
 ## Installation
   - ### In kcp

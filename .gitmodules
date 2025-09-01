@@ -10,3 +10,6 @@
 [submodule "packages/fastfetch"]
 	path = packages/fastfetch
 	url = https://github.com/wilop/fastfetch.git
+[submodule "packages/rt3290-dkms"]
+	path = packages/rt3290-dkms
+	url = https://github.com/wilop/rt3290-dkms.git
