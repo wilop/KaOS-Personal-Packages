@@ -13,3 +13,6 @@
 [submodule "packages/rt3290-dkms"]
 	path = packages/rt3290-dkms
 	url = https://github.com/wilop/rt3290-dkms.git
+[submodule "packages/lua-language-server"]
+	path = packages/lua-language-server
+	url = https://github.com/wilop/lua-language-server.git
