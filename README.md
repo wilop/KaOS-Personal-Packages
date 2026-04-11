@@ -10,7 +10,8 @@ This repository contains the following packages:
   - [vendetta-online](https://github.com/wilop/vendetta-online)  
   - [fastfetch](https://github.com/wilop/fastfetch)  
   - [rt3290-dkms](https://github.com/wilop/rt3290-dkms.git)  
-  - [lua-language-server](https://github.com/wilop/lua-language-server.git)  
+  - [lua-language-server](https://github.com/wilop/lua-language-server)  
+  - [shellcheck](https://github.com/wilop/shellcheck)  
 
 ## Installation
   - ### In kcp
