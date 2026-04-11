@@ -16,3 +16,6 @@
 [submodule "packages/lua-language-server"]
 	path = packages/lua-language-server
 	url = https://github.com/wilop/lua-language-server.git
+[submodule "packages/shellcheck"]
+	path = packages/shellcheck
+	url = https://github.com/wilop/shellcheck.git
