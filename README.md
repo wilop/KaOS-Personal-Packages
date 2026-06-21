@@ -12,6 +12,8 @@ This repository contains the following packages:
   - [rt3290-dkms](https://github.com/wilop/rt3290-dkms.git)  
   - [lua-language-server](https://github.com/wilop/lua-language-server)  
   - [shellcheck](https://github.com/wilop/shellcheck)  
+  - [flutter-installer](https://github.com/wilop/flutter-installer)  
+  - [androi-cmd-installer](https://github.com/wilop/android-cmd-installer)  
 
 ## Installation
   - ### In kcp

@@ -19,3 +19,9 @@
 [submodule "packages/shellcheck"]
 	path = packages/shellcheck
 	url = https://github.com/wilop/shellcheck.git
+[submodule "packages/flutter-installer"]
+	path = packages/flutter-installer
+	url = https://github.com/wilop/flutter-installer.git
+[submodule "packages/android-cmd-installer"]
+	path = packages/android-cmd-installer
+	url = https://github.com/wilop/android-cmd-installer.git
